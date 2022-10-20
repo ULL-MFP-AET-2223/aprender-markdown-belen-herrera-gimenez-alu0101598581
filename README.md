@@ -1,14 +1,14 @@
 
-# Máster en Formación del Profesorado - 21/22
+# Máster en Formación del Profesorado - 22/23
 ## Aprendizaje y Enseñanza de la Tecnología <img src="logos/logo.png" style="float: right;" alt="ULL" width="100"/>
 ---
 
 
 
 
-Alumno: **[Alejandro Marrero Díaz](https://campusdoctoradoyposgrado2122.ull.es/user/profile.php?id=1156)** - [amarrerod](https://github.com/amarrerod)
+Alumno: **[Belén Herrera Giménez](https://campusdoctoradoyposgrado2223.ull.es/user/profile.php?id=1156)** - [BelHerGi](https://github.com/BelHerGi)
 
-Puedes enviarme un *correo* a `let email: str = "alu0100825008@ull.edu.es"`. Para consultar la mi experiencia en el Máster y un breve CV puedes pulsar [este enlace](master.md)
+Puedes enviarme un *correo* a `let email: str = "alu0101598581@ull.edu.es"`. Para consultar la mi experiencia en el Máster y un breve CV puedes pulsar [este enlace](master.md)
 
 *Cita favorita:*
 >A computer would deserve to be called intelligent if it could deceive a human into believing that it was human - Alan Turing
