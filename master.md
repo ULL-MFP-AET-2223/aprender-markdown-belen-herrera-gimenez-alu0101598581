@@ -5,8 +5,8 @@
 
 ## Formación 
 
-- Ingeniero Técnico en Diseño Industrial - 2008 - 2011
-- Máster en Formación del Profesorado de Educación Secundaria Obligatoria y Bachillerato por Universidad de La Laguna - 2022 - presente
+1. Ingeniero Técnico en Diseño Industrial - 2008 - 2011
+2. Máster en Formación del Profesorado de Educación Secundaria Obligatoria y Bachillerato por Universidad de La Laguna - 2022 - presente
 
 
 
