@@ -55,6 +55,7 @@ En markdown una imagen se escribe así: `(texto explicativo)(logos/logo.png)`y e
 
 [*Seguir leyendo* <img src="logos/flecha.png" width="30"/>](mas-info.md)
 
+---
 
 **Enlaces de contacto**:
 
