@@ -13,12 +13,12 @@
 ## Experiencia Profesional
 
 ### - Diseñadora industrial - Project Manager 
-        * Bobet Soportes Publicitarios | Mayo 2015 - Abril 2016
-        * Publexcan S.L, | Abril 2016 - Febrero 2021
-        * Exinte S.L.U. | Marzo 2022 - Octubre 2022
+* Bobet Soportes Publicitarios | Mayo 2015 - Abril 2016
+* Publexcan S.L, | Abril 2016 - Febrero 2021
+* Exinte S.L.U. | Marzo 2022 - Octubre 2022
 ### - Interiorismo - Vendedora
-        * Indecorzone | Febrero 2015 - Mayo 2015
+* Indecorzone | Febrero 2015 - Mayo 2015
 ### - Diseñadora - Emprendedora
-        * Noviembre 2011 - Febrero 2015
+* Noviembre 2011 - Febrero 2015
 ### - Interiorismo - Vendedora
-        * BoConcept | Octubre 2011 - Julio 2012 
+* BoConcept | Octubre 2011 - Julio 2012 
