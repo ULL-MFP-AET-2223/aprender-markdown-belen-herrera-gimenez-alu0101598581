@@ -48,11 +48,17 @@ No me quiero olvidar de cómo se pone una imagen en html:
 
 En markdown una imagen se escribe así: `(texto explicativo)(logos/logo.png)`y este es un ejemplo de código inline
 
+## Imagen
+![](logos/gato.jpg)
+
+![](logos/download.jpg)
+
+
 **Enlaces de contacto**:
 
 |      Redes Sociales       |                                                                                                                   |
 | :-----------------------: | :---------------------------------------------------------------------------------------------------------------: |
-|   LinkedIn :briefcase:    |               [<img src="logos/linkedin.png" width="32">](https://www.linkedin.com/in/alemarrero/)                |
-|  Google Scholar :school:  | [<img src="logos/google.png" width="32">](https://scholar.google.es/citations?hl=es&authuser=2&user=-E9F8KEAAAAJ) |
-| ResearchGate :microscope: |     [<img src="logos/researchgate.png" width="32">](https://www.researchgate.net/profile/Alejandro-Marrero-2)     |
+|   LinkedIn :briefcase:    |               [<img src="logos/linkedin.png" width="32">](hhttps://www.linkedin.com/in/belen-herrera-gim%C3%A9nez-5443213a/)                |
 
+
+|    Datos contacto   |
