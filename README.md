@@ -42,7 +42,7 @@ No me quiero olvidar de cómo se pone una imagen en html:
 
 ## Enlace
 
-Aula Virtual(https://campusdoctoradoyposgrado2223.ull.es/course/view.php?id=2223110052)
+[Aula Virtual](https://campusdoctoradoyposgrado2223.ull.es/course/view.php?id=2223110052)
 
 **Enlaces de contacto**:
 
