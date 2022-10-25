@@ -62,12 +62,15 @@ En markdown una imagen se escribe así: `(texto explicativo)(logos/logo.png)`y e
 | :-----------------------: | :---------------------------------------------------------------------------------------------------------------: |
 |   LinkedIn :briefcase:    |               [<img src="logos/linkedin.png" width="32">](hhttps://www.linkedin.com/in/belen-herrera-gim%C3%A9nez-5443213a/)                |
 
+---
 
 |   Datos |  Contacto   |
 |------|---------------|
 | Telf | 660 095 713  |
 | Mail | alu0101598581@ull.edu.es|
 
+---
+
 ## Matemáticas
 
-$$\text{La Fórmula Cuadrática es }x = \frac {-b \pm \sqrt {b^2 - 4ac}}{2a}$$
+$$ x = \frac {-b \pm \sqrt {b^2 - 4ac}}{2a}$$
