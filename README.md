@@ -70,4 +70,4 @@ En markdown una imagen se escribe así: `(texto explicativo)(logos/logo.png)`y e
 
 ## Matemáticas
 
-
+$$\text{La Fórmula Cuadrática es }x = \frac {-b \pm \sqrt {b^2 - 4ac}}{2a}$$
