@@ -14,19 +14,10 @@ Puedes enviarme un *correo* a `let email: str = "alu0101598581@ull.edu.es"`. Par
 >A computer would deserve to be called intelligent if it could deceive a human into believing that it was human - Alan Turing
 
 
-Un día de trabajo para mí es algo como esto:
+No me quiero olvidar de cómo se pone una imagen en html:
 
 ```python
-def routine(self, pomodoros: int = 4, coffee: Coffee):
-    counter = 0
-    while is_day_time() and counter < pomodoros:
-        if coffee.empty():
-            coffee.refill()
-        
-        self.drink(coffee)
-        self.work(during=25)
-        self.chill(during=5)
-        counter += 1
+<img src="logos/bombilla.png" style="float: right;" alt="ULL" width="50"/>
 
 ```
 
