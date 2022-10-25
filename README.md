@@ -44,6 +44,10 @@ No me quiero olvidar de cómo se pone una imagen en html:
 
 [Aula Virtual](https://campusdoctoradoyposgrado2223.ull.es/course/view.php?id=2223110052)
 
+## Inline Code
+
+En markdown una imagen se escribe así: `(texto explicativo)(logos/logo.png)`y este es un ejemplo de código inline
+
 **Enlaces de contacto**:
 
 |      Redes Sociales       |                                                                                                                   |
