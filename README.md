@@ -53,6 +53,8 @@ En markdown una imagen se escribe así: `(texto explicativo)(logos/logo.png)`y e
 
 ![](logos/download.jpg)
 
+[Seguir leyendo](mas info.md)
+
 
 **Enlaces de contacto**:
 
