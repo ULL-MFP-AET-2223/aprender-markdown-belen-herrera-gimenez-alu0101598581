@@ -1,6 +1,6 @@
 
 # Máster en Formación del Profesorado - 22/23
-## Aprendizaje y Enseñanza de la Tecnología <img src="logos/bombilla.png" style="float: right;" alt="ULL" width="100"/>
+## Aprendizaje y Enseñanza de la Tecnología <img src="logos/bombilla.png" style="float: right;" alt="ULL" width="50"/>
 ---
 
 
