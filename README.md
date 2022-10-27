@@ -99,11 +99,3 @@ $$ x = \frac {-b \pm \sqrt {b^2 - 4ac}}{2a}$$
         C-->D;
 ```
 
-
-```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
-``
