@@ -14,11 +14,8 @@ Puedes enviarme un *correo* a `let email: str = "alu0101598581@ull.edu.es"`. Par
 >A computer would deserve to be called intelligent if it could deceive a human into believing that it was human - Alan Turing
 
 
-No me quiero olvidar de cómo se pone una imagen en html:
 
-```python
-<img src="logos/bombilla.png" style="float: right;" alt="ULL" width="50"/>
-
+```javascript
 <script type="text/javascript">
     function getfocus()
     {
