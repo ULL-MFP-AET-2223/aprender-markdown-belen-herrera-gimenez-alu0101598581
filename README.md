@@ -93,11 +93,9 @@ $$ x = \frac {-b \pm \sqrt {b^2 - 4ac}}{2a}$$
 
 ```mermaid
     graph TD;
-        A-->B;
-        A-->C;
+        A-->|Sí|B;
+        A-->|No|C;
         B-->D;
         C-->D;
 ```
 
-flowchart LR
-    a-->|xx|B
