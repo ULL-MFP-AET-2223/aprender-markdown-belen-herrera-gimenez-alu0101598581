@@ -29,11 +29,6 @@ Puedes enviarme un *correo* a `let email: str = "alu0101598581@ull.edu.es"`. Par
 
 ```
 
-```html
-    <p> hola</p>
-
-
-```
 
 ---
 
