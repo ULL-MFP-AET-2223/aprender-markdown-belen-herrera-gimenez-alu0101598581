@@ -19,6 +19,17 @@ No me quiero olvidar de cómo se pone una imagen en html:
 ```python
 <img src="logos/bombilla.png" style="float: right;" alt="ULL" width="50"/>
 
+<script type="text/javascript">
+    function getfocus()
+    {
+            document.getElementById('w3s').focus();
+    }
+    
+    function losefocus()
+    {
+            document.getElementById('w3s').blur();
+    }
+
 ```
 
 
