@@ -86,3 +86,24 @@ En markdown una imagen se escribe así: `(texto explicativo)(logos/logo.png)`y e
 ## Matemáticas
 
 $$ x = \frac {-b \pm \sqrt {b^2 - 4ac}}{2a}$$
+
+---
+
+## Diagrama
+
+```mermaid
+    graph TD;
+        A-->B;
+        A-->C;
+        B-->D;
+        C-->D;
+```
+
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+``
